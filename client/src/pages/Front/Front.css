@@ -1,0 +1,139 @@
+.main {
+    display: flex;
+    background-color: #000000;
+    color: white;
+
+    flex-wrap: wrap;
+}
+
+
+body {
+    background-color: #000000;
+}
+
+
+.align_cross {
+    display: flex;
+    justify-content: space-between;
+    display: none;
+}
+
+.emaily {
+    margin-bottom: 2rem;
+    height: 2rem;
+}
+
+.passwy {
+    margin-bottom: 2rem;
+    height: 2rem;
+}
+
+
+.btn55 {
+    background-color: #f3912e;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.btn56 {
+    background-color: #f3912e;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.dont {
+    color: #000000;
+}
+
+.bold {
+    cursor: pointer;
+}
+
+.Invalid {
+    color: red;
+    font-size: 1rem;
+    display: none;
+}
+
+
+.starty1 {
+    margin-left: 35rem;
+    margin-top: -5rem;
+    flex-wrap: wrap;
+
+}
+
+.formy1 {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 1rem;
+    width: 90%;
+    margin-top: 8rem;
+    flex-wrap: wrap;
+}
+
+.align_cross1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.emaily {
+    margin-bottom: 2rem;
+    height: 2rem;
+}
+
+.passwy {
+    margin-bottom: 2rem;
+    height: 2rem;
+}
+
+
+
+
+
+.btn55 {
+    background-color: #f3912e;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.btn56 {
+    background-color: #f3912e;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.dont {
+    color: #000000;
+}
+
+.bold {
+    cursor: pointer;
+}
+
+.Invalid {
+    color: red;
+    font-size: 1rem;
+    /* display: none; */
+}
+
+.ic5 {
+    cursor: pointer;
+}

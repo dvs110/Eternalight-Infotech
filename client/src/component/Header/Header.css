@@ -1,0 +1,60 @@
+.header {
+    background-color: #000000;
+    display: flex;
+    color: white;
+    font-weight: normal;
+    justify-content: space-between;
+    width: 100%;
+    position: sticky;
+    border: none;
+    height: 4rem;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 10;
+    max-width: 100%;
+}
+
+
+
+
+
+.header1 {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    /* width: auto/; */
+}
+
+
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+
+
+/* logo */
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.90rem;
+    /* margin-right: 3rem; */
+}
+
+.navlogo {
+    width: 2.5rem;
+    height: 2.5rem;
+
+}
+
+/*  */
+
+a h2 {
+    margin-left: 0.5rem;
+
+}
